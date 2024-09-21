@@ -1,0 +1,213 @@
+#one{
+    padding-top: 40px;
+    margin-right: 40px;
+    border-style: solid;
+    border-width: 3px;
+    border-color:rgb(49, 49, 49); 
+    border-radius: 6px;
+    margin-bottom: 50px;
+    margin-top: 0%;
+    height: 80px;
+    width: 1500px;
+    background-color: #1E5128;
+    font-size: larger;
+    list-style: none;
+    display: inline;
+    display: flex;
+    flex-direction: row;
+    color: aliceblue;
+    justify-content: space-evenly;
+    font-family:'Times New Roman', Times, serif
+}
+#two{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 80px;
+font-weight: 800;
+margin-left: 50px;
+height: 100px;
+
+}
+#three{
+    background-color:#1E5128 ;
+    border-style: solid;
+    border-color:#1E5128;
+    border-radius: 30px;
+    padding-top: 50px;
+    padding-left: 35px;
+    text-align:left;    
+    height: 300px;
+    font-size: 26px;
+}
+.page2{
+    text-align: center;
+    font-size: 40px;
+    color:#1E5128;
+}
+.page1{
+    
+    text-align:center;
+    font-size: 22px;
+}
+.page3{
+    text-align: center;
+    color:#1E5128;
+    font-size: 22px;
+    font-weight: bold;
+    
+}
+.main{
+    list-style: none;
+  }
+.major{
+    display: inline;
+}
+.skills{
+    margin-left: 30px;
+}
+.page3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.skills{
+    text-align: center;
+    font-size: 40px;
+    color: #1E5128;
+}
+.left{
+    background-color:#4E9F3D;
+    padding-top: 30px;
+    padding-right: 37px;
+    margin-left: 100px;
+    width: 25%;
+    border-style: solid;
+    border-color: #1E5128;
+    border-radius: 25px;
+}
+.right{
+    background-color:#4E9F3D;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin-right: 250px;
+    padding-right: 65px;
+    width: 20%;
+    border-style: solid;
+    border-color:#1E5128;
+    border-radius: 25px;
+
+}
+#about{
+    font-size: xx-large;
+}
+.contact{
+    text-align: center;
+    color: #1E5128;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-left: 180px;
+}
+#hash{
+    margin-right: 100px;
+}
+.new{
+    text-align: center
+    font-size=20px;
+}
+#fifth{
+
+    padding-right: 50px;
+}
+#sixth{
+    padding-right: 30px;
+}
+#first:hover{
+    color: black;
+    transform: scale(1.2);
+    transition: 3s ease;
+}
+#second:hover{
+    color: black;
+    transform: scale(1.05);
+}
+#third:hover{
+    color: black;
+    transform: scale(1.05);
+}
+#fourth:hover{
+    color: black;
+    transform: scale(1.05);
+}
+#fifth:hover{
+    color: black;
+    transform: scale(1.05);
+}
+#sixth:hover{
+    color: black;
+    transform: scale(1.05);
+}
+.new{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.det{
+    color: #1E5128;
+    font-size: 40px;
+}
+.contact-form {
+    margin-left: 537px;
+    width: 1000px;
+    padding-left: 200px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+.contact-form h2 {
+    padding-right: 22px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+.contact-form label {
+    font-size: 14px;
+    color: #333;
+    display: block;
+    margin-bottom: 5px;
+}
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.contact-form textarea {
+    height: 100px;
+    resize: none;
+}
+.contact-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.contact-form button:hover {
+    background-color: #218838;
+}
+.pros{
+    width: 200px;
+}
+
